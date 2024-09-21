@@ -46,9 +46,8 @@ Pré-requisitos
     Um editor de texto ou IDE de sua preferência, como VS Code ou PyCharm.
     
 Recursos Adicionais
+[Documentação Oficial do Python](https://docs.python.org/3/)
+[w3schools Python Tutorial](https://www.w3schools.com/python/)
+[Python Tutor](http://pythontutor.com/)
+[![Logo do Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org)
 
-Aqui estão alguns recursos úteis para te ajudar a aprender Python:
-
-    [Documentação Oficial do Python](https://docs.python.org/3/)
-    [Python Tutor](http://pythontutor.com/)
-    [W3Schools Python Tutorial](https://www.w3schools.com/python/)
