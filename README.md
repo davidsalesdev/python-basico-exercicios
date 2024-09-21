@@ -49,5 +49,7 @@ Recursos Adicionais
 [Documentação Oficial do Python](https://docs.python.org/3/)
 [w3schools Python Tutorial](https://www.w3schools.com/python/)
 [Python Tutor](http://pythontutor.com/)
+
+
 [![Logo do Python](https://www.python.org/static/community_logos/python-logo.png)](https://www.python.org)
 
