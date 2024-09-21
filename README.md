@@ -49,6 +49,6 @@ Recursos Adicionais
 
 Aqui estão alguns recursos úteis para te ajudar a aprender Python:
 
-    Documentação Oficial do Python
-    Python Tutor – Visualize a execução do código passo a passo
-    W3Schools Python Tutorial
+    [Documentação Oficial do Python](https://docs.python.org/3/)
+    [Python Tutor](http://pythontutor.com/)
+    [W3Schools Python Tutorial](https://www.w3schools.com/python/)
